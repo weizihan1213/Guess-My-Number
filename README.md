@@ -4,3 +4,4 @@ A side-project that I created with the instructor of the course "The Complete Ja
 There're 20 points for the game in all, meaning that player will lose one point each time if the wrong number is taken, also based off of the value that is greater or less, the hint will be given correspondingly. The project is implemented by using HTML5, CSS3M, Vanilla JavaScript, and DOM.
 
 ![plot](init.png)
+
